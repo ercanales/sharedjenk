@@ -1,4 +1,4 @@
-@Library(['shared1', 'shared2']) _
+@Library('shared1') _
 
 Dep([
     depPrefix: 'deps'
